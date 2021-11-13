@@ -33,7 +33,7 @@ xpip install xontrib-default-command
 Then, add this to your [rc.xsh]:
 
 ```shell
-xontrib load default-command
+xontrib load default_command
 ```
 
 ## Similar projects
