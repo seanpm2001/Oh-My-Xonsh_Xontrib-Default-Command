@@ -9,7 +9,7 @@ except (IOError, OSError):
 
 setuptools.setup(
     name='xontrib-default-command',
-    version='0.0.2',
+    version='0.0.3',
     license='MIT',
     author='mattmc3',
     author_email='ohmyxonsh@gmail.com',
