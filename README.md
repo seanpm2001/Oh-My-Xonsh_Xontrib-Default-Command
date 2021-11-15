@@ -38,7 +38,8 @@ xontrib load default_command
 
 ## Similar projects
 
-- Zsh has an [auto-ls plugin](https://github.com/desyncr/auto-ls)
+- Oh-My-Zsh has a [magic-enter plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/magic-enter)
+- Zsh has another one called [auto-ls](https://github.com/desyncr/auto-ls)
 
 
 [xonsh]: https://xon.sh
