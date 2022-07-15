@@ -8,5 +8,5 @@ def default_command_transform(cmd):
 def defaultcmd():
     newcmd = "ls"
     if p'$PWD/.git'.exists():
-        newcmd += " && git status -s"
+        newcmd += " && git status -sb"
     return newcmd
